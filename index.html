@@ -108,23 +108,17 @@ text{paint-order:stroke;stroke:var(--halo);stroke-width:3.5px;stroke-linejoin:ro
 <g font-size="11" fill="var(--muted)" font-family="Archivo,sans-serif">
 <text x="523" y="440">Moot Bar &mdash; taken</text><text x="689" y="612">Fulton Ale House &mdash; taken</text></g>
 <g>
-<circle cx="469" cy="666" r="5" fill="var(--green)" opacity=".5" stroke="var(--halo)" stroke-width="1.2"/>
-<circle cx="515" cy="697" r="7.5" fill="var(--green)" stroke="var(--halo)" stroke-width="1.5"/>
-<text class="barnm" x="527" y="701">The Crown Inn</text>
-<circle cx="420" cy="621" r="7.5" fill="var(--green)" stroke="var(--halo)" stroke-width="1.5"/>
-<text class="barnm" x="432" y="626">Branded Saloon</text>
-<circle cx="399" cy="609" r="7.5" fill="var(--green)" stroke="var(--halo)" stroke-width="1.5"/>
-<text class="barnm" x="388" y="613" text-anchor="end">Bilt Bar</text>
-<circle cx="460" cy="588" r="9" fill="var(--green)" stroke="var(--halo)" stroke-width="2"/>
-<text class="barnm" x="448" y="588" text-anchor="end">Fulton Grand</text>
-<text class="km" x="448" y="602" text-anchor="end" fill="var(--green)">back room &mdash; confirmed</text></g>
-<g fill="var(--green)" opacity=".5" stroke="var(--halo)" stroke-width="1.2">
-<circle cx="464" cy="644" r="5"/><circle cx="422" cy="628" r="5"/><circle cx="435" cy="630" r="5"/>
-<circle cx="426" cy="463" r="5"/><circle cx="405" cy="500" r="5"/>
-<circle cx="537" cy="532" r="5"/><circle cx="524" cy="613" r="5"/><circle cx="655" cy="528" r="5"/></g>
-<g>
-<circle cx="490" cy="450" r="7.5" fill="var(--green)" stroke="var(--halo)" stroke-width="1.5"/>
-<text class="barnm" x="490" y="434" text-anchor="middle">The Emerson</text></g>
+<circle cx="490" cy="450" r="8" fill="var(--green)" stroke="var(--halo)" stroke-width="1.8"/>
+<text class="barnm" x="490" y="433" text-anchor="middle">The Emerson</text>
+<circle cx="460" cy="580" r="8" fill="var(--green)" stroke="var(--halo)" stroke-width="1.8"/>
+<text class="barnm" x="448" y="578" text-anchor="end">Fulton Grand</text>
+<circle cx="524" cy="595" r="8" fill="var(--green)" stroke="var(--halo)" stroke-width="1.8"/>
+<text class="barnm" x="537" y="599">Chilo&rsquo;s</text>
+<circle cx="420" cy="621" r="8" fill="var(--green)" stroke="var(--halo)" stroke-width="1.8"/>
+<text class="barnm" x="433" y="641">Branded Saloon</text>
+<circle cx="399" cy="609" r="8" fill="var(--green)" stroke="var(--halo)" stroke-width="1.8"/>
+<text class="barnm" x="388" y="606" text-anchor="end">Bilt Bar</text>
+</g>
 <g>
 <circle cx="568" cy="448" r="15" fill="none" stroke="var(--red)" stroke-width="2.4"/>
 <path d="M568,427 V439 M568,457 V469 M547,448 H559 M577,448 H589" stroke="var(--red)" stroke-width="2.4"/>
@@ -203,30 +197,55 @@ text{paint-order:stroke;stroke:var(--halo);stroke-width:3.5px;stroke-linejoin:ro
 <section><h2>Which bars serve the transit eight</h2>
 <p class="sub">Walking distance from each bar&rsquo;s door to the nearest G and nearest A/C station.</p>
 <div class="tscroll"><table>
-<thead><tr><th>Bar</th><th>Walk to G</th><th>Walk to A/C</th><th>Transit 8 served</th><th>Verdict</th></tr></thead><tbody>
-<tr><td class="who">Fulton Grand</td><td class="n">0.68 km</td><td class="n">0.15 km</td><td class="n">8 / 8</td><td><b>Two minutes from the C.</b> Best subway access on the list.</td></tr>
-<tr><td class="who">The Emerson</td><td class="n">0.59 km</td><td class="n">1.32 km</td><td class="n">6 / 8</td><td><b>Fails Hayley and Chris</b> &mdash; the C is an 18 min walk.</td></tr>
+<thead><tr><th>Bar</th><th>Walk to G</th><th>Walk to A/C</th><th>Transit 8</th><th>Verdict</th></tr></thead><tbody>
+<tr><td class="who">Fulton Grand</td><td class="n">0.68 km</td><td class="n">0.15 km</td><td class="n">8 / 8</td><td><b>Two minutes from the C.</b> Best subway access of the five.</td></tr>
+<tr><td class="who">The Emerson</td><td class="n">0.59 km</td><td class="n">1.32 km</td><td class="n">6 / 8</td><td>Misses Hayley and Chris &mdash; the C is an 18 min walk. Carried by the B54.</td></tr>
+<tr><td class="who">Chilo&rsquo;s</td><td class="n">0.91 km</td><td class="n">0.05 km</td><td class="n">4 / 8</td><td>Practically on top of Franklin Ave (A/C); the G is further.</td></tr>
 <tr><td class="who">Branded Saloon</td><td class="n">1.09 km</td><td class="n">0.54 km</td><td class="n">2 / 8</td><td>C is fine; the G is a 14 min walk.</td></tr>
-<tr><td class="who">Washington Commons</td><td class="n">1.59 km</td><td class="n">0.91 km</td><td class="n">0 / 8</td><td>Too far from both. Serves none of the eight well.</td></tr>
-<tr><td class="who">Bilt Bar</td><td class="n">1.02 km</td><td class="n">0.51 km</td><td class="n">4 / 8</td><td>Good C access, but the G is a 13 min walk.</td></tr>
-<tr><td class="who">The Crown Inn</td><td class="n">1.89 km</td><td class="n">1.01 km</td><td class="n">0 / 8</td><td>Too far from both.</td></tr>
+<tr><td class="who">Bilt Bar</td><td class="n">0.94 km</td><td class="n">0.46 km</td><td class="n">2 / 8</td><td>C is fine; the G is a 13 min walk.</td></tr>
 </tbody></table></div>
 <p class="note"><b>This reorders the shortlist.</b> Once you weight only the eight who actually need transit, The Emerson slips to 6 of 8 &mdash; it is an eight-minute walk from the G but eighteen from the C, and the C is precisely what Hayley and Chris ride. <b>Only Fulton Grand clears it outright.</b> Washington Commons and the Crown Inn, strong on other measures, serve none of the eight well.</p></section>
 
 <section><h2>The bars on the map</h2>
-<p class="sub">Every labelled candidate on the map above. Two boards is the binding constraint &mdash; roughly 10&ndash;12 ft of wall and 11 ft of depth.</p>
+<p class="sub">The five still in play. Two boards is the binding constraint &mdash; roughly 10&ndash;12 ft of wall and 11 ft of depth.</p>
 <div class="tscroll"><table>
-<thead><tr><th>#</th><th>Bar</th><th>Address</th><th>km / player</th><th>Food</th><th>Tuesday</th><th>Transit 8</th><th>Two-board space</th></tr></thead><tbody>
-<tr><td class="n">1</td><td class="who">The Emerson</td><td class="addr">561 Myrtle Ave</td><td class="n">3.60</td><td>Conflicting reports</td><td>Clear &mdash; music is Thu</td><td class="n">6 / 8</td><td>Pool <em>and</em> ping-pong indoors. Inferred, not measured.</td></tr>
-<tr><td class="n">2</td><td class="who">Branded Saloon</td><td class="addr">603 Vanderbilt Ave</td><td class="n">4.18</td><td>Full kitchen</td><td>Unverified</td><td class="n">2 / 8</td><td><b>Back performance room (cap. 120) plus substantial upstairs space.</b> Two possible rooms.</td></tr>
-<tr><td class="n">3</td><td class="who">Fulton Grand</td><td class="addr">1011 Fulton St</td><td class="n">3.91</td><td>Unverified</td><td>Unverified</td><td class="n">8 / 8</td><td><b>Back room that held a shuffleboard table.</b> The only room anyone has actually described.</td></tr>
-<tr><td class="n">4</td><td class="who">Bilt Bar</td><td class="addr">583 Vanderbilt Ave</td><td class="n">4.13</td><td>Charcuterie, no kitchen</td><td>Unverified</td><td class="n">4 / 8</td><td><b>Space in the back</b> per photo review. Needs a tape measure.</td></tr>
-<tr><td class="n">15</td><td class="who">The Crown Inn</td><td class="addr">724 Franklin Ave</td><td class="n">4.46</td><td>Kitchen &mdash; oysters, charcuterie</td><td><b>Trivia 7:30pm</b></td><td class="n">0 / 8</td><td>Front and back seating, backyard closes 11pm. Rated most likely to work by the commissioner&rsquo;s contact.</td></tr>
-<tr><td class="n">18</td><td class="who">Washington Commons</td><td class="addr">748 Washington Ave</td><td class="n">4.32</td><td>BYO / delivery welcome</td><td>Unverified</td><td class="n">0 / 8</td><td><b>Low on vibe</b> (CJ), and 0 of 8 on transit.</td></tr>
-<tr><td class="n">23</td><td class="who">Glorietta Baldy&rsquo;s</td><td class="addr">502 Franklin Ave</td><td class="n">3.74</td><td>Wood-fired pizza</td><td>Clear &mdash; trivia is Wed</td><td class="n">&mdash;</td><td><b>Ruled out.</b> Small room and the wrong feel for a weekly night.</td></tr>
-<tr><td class="n">24</td><td class="who">Hartley&rsquo;s</td><td class="addr">14 Putnam Ave</td><td class="n">3.81</td><td>Full Irish kitchen</td><td>Clear &mdash; trad session is Mon</td><td class="n">&mdash;</td><td><b>Ruled out.</b> Small room, and not a bar that would want a darts team.</td></tr>
+<thead><tr><th>#</th><th>Bar</th><th>Address</th><th>km</th><th>Ownership</th><th>Food</th><th>Tuesday</th><th>Transit 8</th><th>Two-board space</th></tr></thead><tbody>
+<tr><td class="n">1</td><td class="who">The Emerson</td><td class="addr">561 Myrtle Ave</td><td class="n">3.60</td><td>Independent &mdash; owner Gina, since 2010</td><td>No kitchen; BYO or delivery</td><td>Clear &mdash; music is Thu</td><td class="n">6 / 8</td><td>&ldquo;Huge inside, both wide and long.&rdquo; Pool <em>and</em> ping-pong.</td></tr>
+<tr><td class="n">2</td><td class="who">Branded Saloon</td><td class="addr">603 Vanderbilt Ave</td><td class="n">4.18</td><td>Independent &mdash; queer owned and operated</td><td>Full kitchen</td><td>Heavy events calendar &mdash; check</td><td class="n">2 / 8</td><td><b>Back room (cap. 120) plus upstairs.</b> Two possible rooms.</td></tr>
+<tr><td class="n">3</td><td class="who">Chilo&rsquo;s</td><td class="addr">323 Franklin Ave</td><td class="n">3.94</td><td>Independent &mdash; Dave Zirin, sports editor of <em>The Nation</em></td><td>Kitchen being remodelled</td><td>Unverified</td><td class="n">4 / 8</td><td>Backyard now has a <b>retractable roof</b> &mdash; year-round room.</td></tr>
+<tr><td class="n">4</td><td class="who">Fulton Grand</td><td class="addr">1011 Fulton St</td><td class="n">3.91</td><td>Small local group &mdash; with Washington Commons &amp; 4th Ave Pub</td><td>Unverified</td><td>Unverified</td><td class="n">8 / 8</td><td><b>Back room that held a shuffleboard table.</b></td></tr>
+<tr><td class="n">5</td><td class="who">Bilt Bar</td><td class="addr">583 Vanderbilt Ave</td><td class="n">4.13</td><td>Independent (likely) &mdash; single location</td><td>Charcuterie, no kitchen</td><td>Unverified</td><td class="n">2 / 8</td><td>Space in the back per photo review. Needs a tape measure.</td></tr>
 </tbody></table></div>
 <p class="note"><b>Only one candidate has a room anyone has actually stood in.</b> The owner of Moot Bar reports that <b>Fulton Grand</b> has a back room formerly used for shuffleboard or pinball &mdash; &ldquo;would be perfect for darts if that were feasible.&rdquo; A shuffleboard table is twenty-two feet long, so that room is unambiguously deep enough for two regulation lanes. Everything else here is inference. The open question at Fulton Grand is not whether the room fits &mdash; it is whether it is still free.</p></section>
+<section><h2>Ruled out</h2>
+<p class="sub">Twenty-two venues considered and dropped. Kept here with reasons so nobody re-suggests them.</p>
+<div class="tscroll"><table>
+<thead><tr><th>Bar</th><th>Where</th><th>Why it&rsquo;s out</th></tr></thead><tbody>
+<tr><td class="who">Hartley&rsquo;s</td><td class="addr">14 Putnam Ave</td><td><b>Seen in person.</b> Small room, and not a bar that would want a darts team. Great Guinness, wrong room.</td></tr>
+<tr><td class="who">Glorietta Baldy&rsquo;s</td><td class="addr">502 Franklin Ave</td><td><b>Seen in person.</b> Small, and the wrong feel for a weekly night. The pinball machines were never floor-space evidence.</td></tr>
+<tr><td class="who">Washington Commons</td><td class="addr">748 Washington Ave</td><td>Low on vibe, and 0 of 8 on transit &mdash; too far from both the G and the A/C.</td></tr>
+<tr><td class="who">Doris</td><td class="addr">1088 Fulton St</td><td>Not the vibe we&rsquo;re after.</td></tr>
+<tr><td class="who">Fulton Hall</td><td class="addr">250 Ashland Pl</td><td><b>Corporate-owned</b> &mdash; against the league&rsquo;s small-business purpose. No play space visible either. Had the best station access of anything found.</td></tr>
+<tr><td class="who">The Crown Inn</td><td class="addr">724 Franklin Ave</td><td>Hosts <b>Tuesday trivia at 7:30pm</b>, straight into our window, and 0 of 8 on transit. Revivable if the trivia ever moves &mdash; the commissioner&rsquo;s contact rated it most likely to work.</td></tr>
+<tr><td class="who">Captain Dan&rsquo;s Good Time Tavern</td><td class="addr">497 Greene Ave</td><td>Tuesday trivia at 7:30pm.</td></tr>
+<tr><td class="who">C&rsquo;mon Everybody</td><td class="addr">325 Franklin Ave</td><td>Best back room found, but it is a working music venue and books Tuesdays.</td></tr>
+<tr><td class="who">Tip Top Bar &amp; Grill</td><td class="addr">432 Franklin Ave</td><td>Open Thursday to Sunday only &mdash; shut on Tuesdays.</td></tr>
+<tr><td class="who">All Night Skate</td><td class="addr">54 Rockaway Ave</td><td>Outside the league boundary by roughly 2 km. An entire arcade room and a balcony &mdash; the best raw space found anywhere.</td></tr>
+<tr><td class="who">Wonderville</td><td class="addr">1186 Broadway</td><td>Outside the boundary.</td></tr>
+<tr><td class="who">Turtles All the Way Down</td><td class="addr">236 Malcolm X Blvd</td><td>Outside the boundary by about 0.5 km.</td></tr>
+<tr><td class="who">Therapy Wine Bar 2.0</td><td class="addr">260 Malcolm X Blvd</td><td>Outside the boundary; also a wine bar.</td></tr>
+<tr><td class="who">Bar LunÀtico</td><td class="addr">486 Halsey St</td><td>On or just past the boundary; &ldquo;very narrow&rdquo; and has a stage.</td></tr>
+<tr><td class="who">Project Parlor</td><td class="addr">742 Myrtle Ave</td><td><b>Closed.</b> Had the best geographic score of anything found &mdash; exactly the team&rsquo;s optimum.</td></tr>
+<tr><td class="who">Swell Dive</td><td class="addr">1013 Bedford Ave</td><td>Closed.</td></tr>
+<tr><td class="who">The Low Post</td><td class="addr">1452 Fulton St</td><td>Closed.</td></tr>
+<tr><td class="who">Lover&rsquo;s Rock</td><td class="addr">419 Tompkins Ave</td><td>Closed in 2025.</td></tr>
+<tr><td class="who">Hanson Dry</td><td class="addr">925 Fulton St</td><td>Closed. Was recommended by the commissioner&rsquo;s contact.</td></tr>
+<tr><td class="who">Brooklyn Public House</td><td class="addr">1048 Bedford Ave</td><td>Closed.</td></tr>
+<tr><td class="who">Dynaco</td><td class="addr">1112 Bedford Ave</td><td>Temporarily closed. Had a back room &mdash; worth rechecking if it reopens.</td></tr>
+<tr><td class="who">Bed-Vyne Brew</td><td class="addr">370 Tompkins Ave</td><td>Sources conflict on whether it is still trading.</td></tr>
+</tbody></table></div>
+<p class="note"><b>Seven of the twenty-two were simply closed</b> &mdash; including Project Parlor, which sat exactly on the team&rsquo;s mathematical optimum. Published bar guides go stale fast, so confirm a bar is trading before travelling to it. The four dropped on space or vibe were all ruled out by walking in, never by searching: listings describe drinks and atmosphere, never floor plans.</p></section>
+
 <section><h2>Non-negotiables</h2>
 <p class="sub">Four screens a venue has to pass before anything else matters.</p>
 <div class="tscroll"><table>
