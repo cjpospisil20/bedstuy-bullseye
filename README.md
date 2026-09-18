@@ -1,9 +1,9 @@
-# Brooklyn Darts — New Home Bar Search
+# Bed-Stuy Bullseye
 
 Our two teams lost our home bar after Week 1 of the 2026 season when the venue
 changed hands. This is the analysis for picking a replacement.
 
-### **→ [Open the map](https://cjpospisil20.github.io/brooklyn-darts-bar/)**
+### **→ [Open the map](https://cjpospisil20.github.io/bedstuy-bullseye/)**
 
 ## The finding
 
