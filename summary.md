@@ -88,7 +88,7 @@ several candidates.
 
 ---
 
-## 5. Current standing (7 in play)
+## 5. Current standing (6 in play)
 
 | # | Bar | Address | km/player | Space | Transit 8 | Tuesday |
 |---|---|---|---|---|---|---|
@@ -98,7 +98,6 @@ several candidates.
 | 4 | The Crown Inn | 724 Franklin Ave | 4.46 | Unknown | 0/8 | Trivia — may coexist |
 | 5 | Fulton Grand | 1011 Fulton St | 3.91 | **Confirmed good** | **8/8** | Unverified |
 | 6 | The Layup | 47 5th Ave | 4.35 | Unknown | 6/8 | Unverified |
-| 7 | Sharlene's | 353 Flatbush Ave | 4.23 | Wrong shape | 6/8 | Unverified |
 
 ### Key facts per candidate
 - **The Emerson** — owner Gina, independent since 2010, cash only, no kitchen
@@ -111,12 +110,10 @@ several candidates.
 - **Fulton Grand** — back room formerly used for shuffleboard (a 22-ft table, so
   depth is not in question). Same ownership team as Washington Commons and 4th
   Ave Pub. CJ's caveat: vibe doesn't obviously say darts.
-- **Sharlene's** — good transit, wrong geometry: long narrow room, tables down
-  the one long wall.
 
 ---
 
-## 6. Ruled out — and why (22 venues)
+## 6. Ruled out — and why (23 venues)
 
 **By CJ in person:** Hartley's (small, wrong fit) · Glorietta Baldy's (same) ·
 Washington Commons (low vibe + 0/8 transit) · Doris (vibe) ·
@@ -124,6 +121,9 @@ Fulton Hall (no visible play space — **note: its "corporate" label was wrong,
 Vortex Hospitality runs only 4 venues; ownership was NOT the reason**)
 
 **On space, without a visit (CJ's call, 18 Sept):**
+**Sharlene's** (no room for a board at all — a long narrow room with the bar down one
+side and tables down the other leaves only the walkway between, and a lane needs depth
+*perpendicular* to a wall; good transit could not fix the geometry) ·
 **Chilo's** (clearly not enough room inside for one board, let alone two — everything
 else about it was strong) · **Captain Dan's Good Time Tavern** (no room for a lane
 *and* trivia already holds Tuesday at 7:30 — two strikes on the two screens that

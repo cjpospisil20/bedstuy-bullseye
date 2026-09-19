@@ -4,9 +4,10 @@
 
 > **Superseded — historical snapshot.** `MASTER-BAR-LIST.csv` is the authoritative
 > ranking; the numbers below no longer match it. In particular **Chilo's** and
-> **Captain Dan's Good Time Tavern** are now ruled out — Chilo's for too little
-> interior room for even one board, Captain Dan's for no lane plus Tuesday trivia.
-> Do not re-suggest either from this file.
+> **Captain Dan's Good Time Tavern** and **Sharlene's** are now ruled out — Chilo's
+> for too little interior room for even one board, Captain Dan's for no lane plus
+> Tuesday trivia, Sharlene's for a long narrow room with no depth perpendicular to
+> any wall. Do not re-suggest any of the three from this file.
 
 ---
 
