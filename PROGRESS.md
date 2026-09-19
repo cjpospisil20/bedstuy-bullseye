@@ -101,6 +101,8 @@ her own row redacted. Rounded.
 | **Fulton Hall "corporate" label retracted** | Published on secondhand information; verification showed a 4-venue local group. Ownership was never the reason — no visible play space was |
 | Ruled-out bars **kept with reasons**, not deleted | Stops anyone re-suggesting them |
 | **Searched by venue *category*, not just geography** | The first 44 were almost all cocktail bars, dives and wine bars — the category that fails an 11 ft depth test. Widening to beer halls, taprooms, bocce/game bars and social clubs surfaced Union Hall and four others in one pass |
+| **Opponent-travel model built, then dropped** | Opponents travel to the home bar and it had never been scored; the opponent centre of mass sits in Gowanus / north Park Slope, 3.15 km from the team centre, and it reordered the top group. CJ: doesn't care about opponent travel. Not added |
+| **"Already has a dartboard" adopted as the strongest single signal** | It answers vibe *and* space at once — the two screens that have eliminated most candidates. Only one non-league bar in range has one: Halyards |
 | **Union Hall added at #4 despite the worst distance in the live set** | CJ has stood in it. Firsthand space beats a better number every time — it is the constraint that has eliminated more candidates than anything else |
 | **"Vibe" promoted to a fifth screen on the site** | It had quietly eliminated five venues — Doris, Washington Commons, Sound + Fury, Threes Brewing, Rustik Tavern — four of them with ample room, while the site still listed only four screens |
 | **Household weighting considered and rejected** | `household_size` looks like a weight but is not: roster rows are one-per-player, so multiplying by it double-counts the three two-player addresses. The published per-player figures were already correct. `analysis.py` now asserts the equivalence |
@@ -144,7 +146,7 @@ Then republish the artifact with the same file path to keep the URL.
 
 ## State at hand-off
 
-**8 candidates in play**, ranked 1–8 on the site, led by The Emerson and Branded
+**11 candidates in play**, ranked 1–11 on the site, led by The Emerson and Branded
 Saloon. Chilo's, Captain Dan's, Sharlene's and Doppelgänger were dropped on 18 Sept
 without a visit (see the decision log above), and **Union Hall was added at #4 on CJ's
 firsthand confirmation of its space** — the only candidate he has vouched for himself.

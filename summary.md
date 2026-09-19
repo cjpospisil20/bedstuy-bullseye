@@ -97,7 +97,7 @@ several candidates.
 
 ---
 
-## 5. Current standing (8 in play)
+## 5. Current standing (11 in play)
 
 | # | Bar | Address | km/player | Space | Transit 8 | Tuesday |
 |---|---|---|---|---|---|---|
@@ -105,10 +105,13 @@ several candidates.
 | 2 | Branded Saloon | 603 Vanderbilt Ave | 4.18 | **Exceptional** | 2/8 | **Clear — verified** |
 | 3 | Bilt Bar | 583 Vanderbilt Ave | 4.13 | Adequate | 2/8 | Unverified |
 | 4 | **Union Hall** | 702 Union St | 4.52 | **Confirmed — CJ firsthand** | 4/8 | 4pm–2am, bocce league is Mon |
-| 5 | The Crown Inn | 724 Franklin Ave | 4.46 | Unknown | 0/8 | Trivia — may coexist |
-| 6 | Fulton Grand | 1011 Fulton St | 3.91 | **Confirmed good** | **8/8** | Unverified |
-| 7 | **Black Forest** | 733 Fulton St | 3.97 | Big room, unverified | **8/8 — best** | Trivia + closes 10pm |
-| 8 | The Layup | 47 5th Ave | 4.35 | Unknown | 6/8 | Unverified |
+| 5 | **McMahon's Public House** | 39 5th Ave | 4.35 | Spacious + upstairs lounge, unverified | 6/8 | 11am–2am |
+| 6 | The Crown Inn | 724 Franklin Ave | 4.46 | Unknown | 0/8 | Trivia — may coexist |
+| 7 | Fulton Grand | 1011 Fulton St | 3.91 | **Confirmed good** | **8/8** | Unverified |
+| 8 | **Halyards** | 406 3rd Ave | 4.91 | **Already has dart boards** | 4/8 | 4pm–2am |
+| 9 | **Black Forest** | 733 Fulton St | 3.97 | Big room, unverified | **8/8 — best** | Trivia + closes 10pm |
+| 10 | The Layup | 47 5th Ave | 4.35 | Unknown | 6/8 | Unverified |
+| 11 | **The Dram Shop** | 339 9th St | 5.30 | Darts, pool & shuffleboard | 4/8 | Unverified |
 
 ### Key facts per candidate
 - **The Emerson** — owner Gina, independent since 2010, cash only, no kitchen
@@ -130,13 +133,27 @@ several candidates.
   CJ's read is it may be big enough to run trivia and darts at once. **The real blocker is
   not trivia — it closes at 10pm Mon–Thu**, which does not fit a 7pm start needing 3–4.5
   hours. One phone call settles it: would they stay open later for a booked league?
+- **Halyards** — **the only non-league bar found that already has dart boards.** Corroborated
+  on their own site (a customer quote about the "pool/dart *area*") and in independent
+  coverage ("dart boards and a pool table"). A bar with a board has already answered the two
+  questions that killed most candidates: would they want one on the wall, and is there
+  anywhere to throw. Four blocks from the old home bar. **Steel tip unconfirmed** — the
+  league is steel tip and these may be soft tip. Distance is the problem at 4.91.
+- **McMahon's Public House** — an Irish public house and sports bar, the **closest vibe match
+  on the list** and the same kind of football pub the old home bar was. Open 11am–2am, full
+  kitchen, single location, and 4.35 beats Union Hall, the Crown Inn and The Layup. The
+  candidate space is the **upstairs lounge** they let for events. No board, no dimensions yet.
+- **The Dram Shop** — **a last-ditch option, CJ's words.** Darts, pool *and* shuffleboard, and
+  the Brooklyn APA Pool League runs out of the address, so it already hosts an outside league
+  — the strongest game-space evidence anywhere. But 5.30 km/player is further than even the
+  old home bar, which is why it sits last.
 - **Fulton Grand** — back room formerly used for shuffleboard (a 22-ft table, so
   depth is not in question). Same ownership team as Washington Commons and 4th
   Ave Pub. CJ's caveat: vibe doesn't obviously say darts.
 
 ---
 
-## 6. Ruled out — and why (27 venues)
+## 6. Ruled out — and why (31 venues)
 
 **By CJ in person:** Hartley's (small, wrong fit) · Glorietta Baldy's (same) ·
 Washington Commons (low vibe + 0/8 transit) · Doris (vibe) ·
@@ -159,6 +176,13 @@ considered, which is what makes it the most expensive loss on the list)
 room found in-boundary at 6,000 sq ft, but too far at 4.48 and not divey enough) ·
 **Threes Brewing** (333 Douglass St — a five-site chain, past the three-to-four venue local
 group the screen allows, plus the same vibe objection)
+
+**No room, or no darts (Gowanus/Slope sweep, 18 Sept):** **Fourth Avenue Pub** (76 4th Ave —
+not enough room for a board; costly, it had the best distance of the cluster at 4.32 and a
+possible ownership link to Fulton Grand) · **High Dive** (243 5th Ave — surfaced on a Yelp
+"dart bars" list but actually has *pinball and arcade games*, the inference that already
+failed twice here) · **Littlefield** and **The Bell House** (Gowanus music venues that book
+weeknights; Bell House shares owners with Union Hall)
 
 **Tuesday conflict:** C'mon Everybody (music venue books Tuesdays) ·
 Tip Top Bar & Grill (closed Tuesdays entirely) · **Rustik Tavern** (471 DeKalb Ave —
@@ -198,6 +222,20 @@ and **Fulton Ale House** (1446 Fulton St).
    to reopenings as much as closures, and a listing's freshness is not a venue's status.
 
 Both are lesson 1 below running in *both* directions: listings go stale on reopenings too.
+
+---
+
+### What the Gowanus/Slope sweep established
+CJ's old home bar, **The Bar in Gowanus, 286 Third Ave**, scored **4.72 km/player — further
+than every current candidate.** So distance has never been the binding constraint, and moving
+toward the Slope is not a compromise but a return to what already worked for a season.
+(Mark and Olivia's roster entry uses that same address as an approximation of where they
+live nearby — **this is intentional, not an error. Do not "fix" it.**)
+
+Also established: **no bar in the ideal Bed-Stuy/Clinton Hill zone has a dartboard except
+Moot Bar, which the league already holds.** Every non-league bar with a board is in
+Gowanus or Park Slope. Union Hall does *not* have darts — it is bocce, and appears on dart
+lists only because it is a "bar with games".
 
 ---
 
