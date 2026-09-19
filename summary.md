@@ -88,7 +88,7 @@ Stuyvesant Ave by Fulton St. Bars east of that line are a hard no.
 | **Not a chain** | Small local groups of 3–4 venues are fine. A corporation running dozens is not. |
 | **Inside the league boundary** | Fixed by the commissioner's map |
 | **Free on Tuesdays** | 3–4.5 hours, 15–16 people |
-| **Room to throw** | ~11 ft depth, ~5 ft wall per board. **Two boards is a PREFERENCE, not a requirement — one works.** |
+| **Room to throw** | ~11 ft depth, ~5 ft wall per board, and **INDOORS** — the season runs Tuesdays through winter, so a yard, patio or beer garden is not play space however big. **Two boards is a PREFERENCE, not a requirement — one works.** |
 | **Vibe** | The bar has to suit a loud, standing, four-hour weekly night. A judgement, not a measurement — CJ's to make. Has cost five venues, four of them with ample room. |
 
 **Room shape matters as much as size.** The lane needs depth *perpendicular* to
@@ -97,7 +97,7 @@ several candidates.
 
 ---
 
-## 5. Current standing (11 in play)
+## 5. Current standing (10 in play)
 
 | # | Bar | Address | km/player | Space | Transit 8 | Tuesday |
 |---|---|---|---|---|---|---|
@@ -106,12 +106,11 @@ several candidates.
 | 3 | Bilt Bar | 583 Vanderbilt Ave | 4.13 | Adequate | 2/8 | Unverified |
 | 4 | **Union Hall** | 702 Union St | 4.52 | **Confirmed — CJ firsthand** | 4/8 | 4pm–2am, bocce league is Mon |
 | 5 | **McMahon's Public House** | 39 5th Ave | 4.35 | Spacious + upstairs lounge, unverified | 6/8 | 11am–2am |
-| 6 | The Crown Inn | 724 Franklin Ave | 4.46 | Unknown | 0/8 | Trivia — may coexist |
-| 7 | Fulton Grand | 1011 Fulton St | 3.91 | **Confirmed good** | **8/8** | Unverified |
-| 8 | **Halyards** | 406 3rd Ave | 4.91 | **Already has dart boards** | 4/8 | 4pm–2am |
-| 9 | **Black Forest** | 733 Fulton St | 3.97 | Big room, unverified | **8/8 — best** | Trivia + closes 10pm |
-| 10 | The Layup | 47 5th Ave | 4.35 | Unknown | 6/8 | Unverified |
-| 11 | **The Dram Shop** | 339 9th St | 5.30 | Darts, pool & shuffleboard | 4/8 | Unverified |
+| 6 | Fulton Grand | 1011 Fulton St | 3.91 | **Confirmed good** | **8/8** | Unverified |
+| 7 | **Halyards** | 406 3rd Ave | 4.91 | **Already has dart boards** | 4/8 | 4pm–2am |
+| 8 | **Black Forest** | 733 Fulton St | 3.97 | Big room, unverified | **8/8 — best** | Trivia + closes 10pm |
+| 9 | The Layup | 47 5th Ave | 4.35 | Unknown | 6/8 | Unverified |
+| 10 | **The Dram Shop** | 339 9th St | 5.30 | Darts, pool & shuffleboard | 4/8 | Unverified |
 
 ### Key facts per candidate
 - **The Emerson** — owner Gina, independent since 2010, cash only, no kitchen
@@ -153,7 +152,7 @@ several candidates.
 
 ---
 
-## 6. Ruled out — and why (31 venues)
+## 6. Ruled out — and why (32 venues)
 
 **By CJ in person:** Hartley's (small, wrong fit) · Glorietta Baldy's (same) ·
 Washington Commons (low vibe + 0/8 transit) · Doris (vibe) ·
@@ -171,6 +170,11 @@ else about it was strong) · **Captain Dan's Good Time Tavern** (no room for a l
 *and* trivia already holds Tuesday at 7:30 — two strikes on the two screens that
 matter, so not worth the trip; it was 8/8 on transit and third-closest of anything
 considered, which is what makes it the most expensive loss on the list)
+
+**Contacted and declined (18 Sept):** **The Crown Inn** (724 Franklin Ave — CJ reached out and
+they were not interested; the back area it would have offered is *entirely outdoors*, no use for
+a winter season, and trivia holds Tuesday. **This was the commissioner's contact's strongest
+recommendation — "by far the most likely to work" — and it did not survive first contact.**)
 
 **On vibe or ownership (18 Sept):** **Sound + Fury Brewery** (141 Lawrence St — the largest
 room found in-boundary at 6,000 sq ft, but too far at 4.48 and not divey enough) ·
@@ -236,6 +240,19 @@ Also established: **no bar in the ideal Bed-Stuy/Clinton Hill zone has a dartboa
 Moot Bar, which the league already holds.** Every non-league bar with a board is in
 Gowanus or Park Slope. Union Hall does *not* have darts — it is bocce, and appears on dart
 lists only because it is a "bar with games".
+
+---
+
+### Two things the Crown Inn taught us (18 Sept)
+1. **Outdoor space is not space.** The season runs through winter. The Crown Inn's only
+   candidate area was its backyard, and that had been sitting in the notes as "the back area
+   is the candidate space" without anyone flagging that it is open to the sky. **Re-read every
+   remaining candidate for this** — several lean on yards and gardens. Black Forest's beer
+   garden and McMahon's back garden and patios do not count; their indoor rooms do.
+2. **Insider endorsements have a poor hit rate.** Of the commissioner's contact's
+   recommendations, Hartley's, Glorietta Baldy's, Washington Commons and the Crown Inn are all
+   out and Hanson Dry was closed. **Only Fulton Grand survives, and it carries a vibe query.**
+   A human saying "this one will work" has been no more reliable than a listing.
 
 ---
 
