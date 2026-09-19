@@ -100,6 +100,7 @@ her own row redacted. Rounded.
 | Rings re-centred on the **team centre**, not The Emerson | Neutral reference once The Emerson stopped being the default pick |
 | **Fulton Hall "corporate" label retracted** | Published on secondhand information; verification showed a 4-venue local group. Ownership was never the reason — no visible play space was |
 | Ruled-out bars **kept with reasons**, not deleted | Stops anyone re-suggesting them |
+| **Chilo's and Captain Dan's dropped without a visit** | CJ's call: Chilo's plainly lacks the interior room for even one board; Captain Dan's has no lane *and* trivia already holds Tuesday. Both failed on evidence already in hand, so a trip would only have confirmed it |
 | Site numbering switched to **sequential 1–N** | CSV ranks all 30 live bars; the site shows a curated subset, so its numbers had gaps |
 
 ---
@@ -130,14 +131,15 @@ Then republish the artifact with the same file path to keep the URL.
 
 ## State at hand-off
 
-**9 candidates in play**, ranked 1–9 on the site, led by The Emerson and Branded
-Saloon. CJ is visiting venues today or tomorrow. The two open questions are
-unchanged and can only be answered in person:
+**7 candidates in play**, ranked 1–7 on the site, led by The Emerson and Branded
+Saloon. Chilo's and Captain Dan's were dropped on 18 Sept without a visit (see the
+decision log above). CJ is visiting venues today or tomorrow. The two open questions
+are unchanged and can only be answered in person:
 
 1. **~11 ft of clear depth perpendicular to a wall** — the number that has
    eliminated more candidates than anything else
-2. **Is Tuesday genuinely free?** — and at Captain Dan's and the Crown Inn, is
-   the back separable while trivia runs?
+2. **Is Tuesday genuinely free?** — and at the Crown Inn, is the back separable
+   while trivia runs?
 
 Visit results go in `MASTER-BAR-LIST.csv` under `called_on`, `spoke_to`,
 `two_boards_confirmed`, `tuesday_confirmed`, `outcome`. Re-run the scoring after.

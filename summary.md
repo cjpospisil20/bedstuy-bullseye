@@ -88,7 +88,7 @@ several candidates.
 
 ---
 
-## 5. Current standing (9 in play)
+## 5. Current standing (7 in play)
 
 | # | Bar | Address | km/player | Space | Transit 8 | Tuesday |
 |---|---|---|---|---|---|---|
@@ -98,9 +98,7 @@ several candidates.
 | 4 | The Crown Inn | 724 Franklin Ave | 4.46 | Unknown | 0/8 | Trivia — may coexist |
 | 5 | Fulton Grand | 1011 Fulton St | 3.91 | **Confirmed good** | **8/8** | Unverified |
 | 6 | The Layup | 47 5th Ave | 4.35 | Unknown | 6/8 | Unverified |
-| 7 | Captain Dan's | 497 Greene Ave | 3.71 | Unknown | **8/8** | Trivia — may coexist |
-| 8 | Chilo's | 323 Franklin Ave | 3.94 | Doubted | 4/8 | Open to midnight |
-| 9 | Sharlene's | 353 Flatbush Ave | 4.23 | Wrong shape | 6/8 | Unverified |
+| 7 | Sharlene's | 353 Flatbush Ave | 4.23 | Wrong shape | 6/8 | Unverified |
 
 ### Key facts per candidate
 - **The Emerson** — owner Gina, independent since 2010, cash only, no kitchen
@@ -113,19 +111,24 @@ several candidates.
 - **Fulton Grand** — back room formerly used for shuffleboard (a 22-ft table, so
   depth is not in question). Same ownership team as Washington Commons and 4th
   Ave Pub. CJ's caveat: vibe doesn't obviously say darts.
-- **Captain Dan's** — third-closest and 8/8 transit; only the 7:30pm Tuesday
-  trivia holds it down. **Scope it during trivia**, not on a quiet afternoon.
 - **Sharlene's** — good transit, wrong geometry: long narrow room, tables down
   the one long wall.
 
 ---
 
-## 6. Ruled out — and why (20 venues)
+## 6. Ruled out — and why (22 venues)
 
 **By CJ in person:** Hartley's (small, wrong fit) · Glorietta Baldy's (same) ·
 Washington Commons (low vibe + 0/8 transit) · Doris (vibe) ·
 Fulton Hall (no visible play space — **note: its "corporate" label was wrong,
 Vortex Hospitality runs only 4 venues; ownership was NOT the reason**)
+
+**On space, without a visit (CJ's call, 18 Sept):**
+**Chilo's** (clearly not enough room inside for one board, let alone two — everything
+else about it was strong) · **Captain Dan's Good Time Tavern** (no room for a lane
+*and* trivia already holds Tuesday at 7:30 — two strikes on the two screens that
+matter, so not worth the trip; it was 8/8 on transit and third-closest of anything
+considered, which is what makes it the most expensive loss on the list)
 
 **Tuesday conflict:** C'mon Everybody (music venue books Tuesdays) ·
 Tip Top Bar & Grill (closed Tuesdays entirely)
@@ -157,7 +160,8 @@ and **Fulton Ale House** (1446 Fulton St).
 3. **Owning game furniture is weak evidence of space.** Pinball is a wall
    footprint, not a floor one. This inference failed twice (Hartley's,
    Glorietta).
-4. **A closure announcement can be reversed.** Chilo's announced closing in
+4. **A closure announcement can be reversed.** (Chilo's is now ruled out on space,
+   but the lesson stands.) Chilo's announced closing in
    Sept 2025, held a closing party, then reopened 28 Dec 2025 under new owner
    Dave Zirin. The original Instagram post still circulates and reads as current.
 5. **Don't assert something you haven't verified** — the Fulton Hall "corporate"
@@ -213,8 +217,8 @@ CJ is visiting venues. The two questions that decide it:
 
 1. **~11 ft of clear depth perpendicular to a wall**, out of the path to the
    bathroom and the bar. This is the number that has killed candidates.
-2. **Is it free on Tuesdays?** — and for Captain Dan's and the Crown Inn, is the
-   back separable while trivia runs?
+2. **Is it free on Tuesdays?** — and at the Crown Inn, is the back separable while
+   trivia runs?
 
 Also worth asking: at Branded Saloon, whether the **upstairs** is available on a
 *recurring* Tuesday; at Fulton Grand, whether the **back room is still free**
