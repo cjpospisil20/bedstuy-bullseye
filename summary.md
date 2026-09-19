@@ -51,6 +51,14 @@ underway, so this is a live problem, not a planning exercise.
 all three. The practical venue test: **can you walk to both the G and the C from
 the front door?**
 
+> **Weighting, and a trap.** `roster.csv` holds **one row per player** — 15 rows, 15
+> players. Three addresses house two players each, and each of those players has their own
+> row, so `household_size` is *not* a weight: multiplying by it double-counts those six
+> people (21 units for 15 players) and drags the optimum toward Clinton Hill, Gowanus and
+> Manhattan. Every published figure uses one unit per player row, which is already the
+> correct per-player measure. `analysis.py` asserts the equivalence with
+> address-weighted-by-headcount so this cannot silently regress.
+
 > Exact street addresses are in `roster.csv` (local only — never published).
 > The public repo carries `roster-approx.csv` with street and neighborhood only.
 
@@ -81,6 +89,7 @@ Stuyvesant Ave by Fulton St. Bars east of that line are a hard no.
 | **Inside the league boundary** | Fixed by the commissioner's map |
 | **Free on Tuesdays** | 3–4.5 hours, 15–16 people |
 | **Room to throw** | ~11 ft depth, ~5 ft wall per board. **Two boards is a PREFERENCE, not a requirement — one works.** |
+| **Vibe** | The bar has to suit a loud, standing, four-hour weekly night. A judgement, not a measurement — CJ's to make. Has cost five venues, four of them with ample room. |
 
 **Room shape matters as much as size.** The lane needs depth *perpendicular* to
 the wall. Long narrow bars have length and no depth — that alone has sunk
@@ -88,7 +97,7 @@ several candidates.
 
 ---
 
-## 5. Current standing (7 in play)
+## 5. Current standing (8 in play)
 
 | # | Bar | Address | km/player | Space | Transit 8 | Tuesday |
 |---|---|---|---|---|---|---|
@@ -98,7 +107,8 @@ several candidates.
 | 4 | **Union Hall** | 702 Union St | 4.52 | **Confirmed — CJ firsthand** | 4/8 | 4pm–2am, bocce league is Mon |
 | 5 | The Crown Inn | 724 Franklin Ave | 4.46 | Unknown | 0/8 | Trivia — may coexist |
 | 6 | Fulton Grand | 1011 Fulton St | 3.91 | **Confirmed good** | **8/8** | Unverified |
-| 7 | The Layup | 47 5th Ave | 4.35 | Unknown | 6/8 | Unverified |
+| 7 | **Black Forest** | 733 Fulton St | 3.97 | Big room, unverified | **8/8 — best** | Trivia + closes 10pm |
+| 8 | The Layup | 47 5th Ave | 4.35 | Unknown | 6/8 | Unverified |
 
 ### Key facts per candidate
 - **The Emerson** — owner Gina, independent since 2010, cash only, no kitchen
@@ -114,13 +124,19 @@ several candidates.
   **Already hosts an outside league** — the strongest "this bar says yes" evidence in the
   file. Weakest transit of the live set (A/C is 1.38 km) and the furthest at 4.52, though
   still closer than the Park Slope league bars Monro Pub (5.02) and Farrell's (5.68).
+- **Black Forest** — a German beer hall, and **the best transit of anything assessed**: the
+  C is 0.12 km from the door and the G 0.28 km, so the core venue test is satisfied
+  outright. Skylit main room with seven large communal tables plus a backyard beer garden;
+  CJ's read is it may be big enough to run trivia and darts at once. **The real blocker is
+  not trivia — it closes at 10pm Mon–Thu**, which does not fit a 7pm start needing 3–4.5
+  hours. One phone call settles it: would they stay open later for a booked league?
 - **Fulton Grand** — back room formerly used for shuffleboard (a 22-ft table, so
   depth is not in question). Same ownership team as Washington Commons and 4th
   Ave Pub. CJ's caveat: vibe doesn't obviously say darts.
 
 ---
 
-## 6. Ruled out — and why (26 venues)
+## 6. Ruled out — and why (27 venues)
 
 **By CJ in person:** Hartley's (small, wrong fit) · Glorietta Baldy's (same) ·
 Washington Commons (low vibe + 0/8 transit) · Doris (vibe) ·
@@ -145,7 +161,9 @@ room found in-boundary at 6,000 sq ft, but too far at 4.48 and not divey enough)
 group the screen allows, plus the same vibe objection)
 
 **Tuesday conflict:** C'mon Everybody (music venue books Tuesdays) ·
-Tip Top Bar & Grill (closed Tuesdays entirely)
+Tip Top Bar & Grill (closed Tuesdays entirely) · **Rustik Tavern** (471 DeKalb Ave —
+closed Mondays *and* Tuesdays, and a comfort-food restaurant that would not want a board
+on the wall; painful at 3.62 km/player, the second-closest venue assessed)
 
 **Outside the boundary:** All Night Skate (an entire arcade room — the best raw
 space found anywhere) · Wonderville · Turtles All the Way Down ·

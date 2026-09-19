@@ -102,6 +102,8 @@ her own row redacted. Rounded.
 | Ruled-out bars **kept with reasons**, not deleted | Stops anyone re-suggesting them |
 | **Searched by venue *category*, not just geography** | The first 44 were almost all cocktail bars, dives and wine bars — the category that fails an 11 ft depth test. Widening to beer halls, taprooms, bocce/game bars and social clubs surfaced Union Hall and four others in one pass |
 | **Union Hall added at #4 despite the worst distance in the live set** | CJ has stood in it. Firsthand space beats a better number every time — it is the constraint that has eliminated more candidates than anything else |
+| **"Vibe" promoted to a fifth screen on the site** | It had quietly eliminated five venues — Doris, Washington Commons, Sound + Fury, Threes Brewing, Rustik Tavern — four of them with ample room, while the site still listed only four screens |
+| **Household weighting considered and rejected** | `household_size` looks like a weight but is not: roster rows are one-per-player, so multiplying by it double-counts the three two-player addresses. The published per-player figures were already correct. `analysis.py` now asserts the equivalence |
 | **Chilo's, Captain Dan's and Sharlene's dropped without a visit** | CJ's call: Chilo's plainly lacks the interior room for even one board; Captain Dan's has no lane *and* trivia already holds Tuesday; Sharlene's shotgun room has no depth perpendicular to any wall. All three failed on evidence already in hand, so a trip would only have confirmed it |
 | Site numbering switched to **sequential 1–N** | CSV ranks all 30 live bars; the site shows a curated subset, so its numbers had gaps |
 
@@ -109,6 +111,11 @@ her own row redacted. Rounded.
 
 ## Known gotchas for whoever picks this up
 
+- **`analysis.py` was broken and is now fixed.** It referenced `r["people"]` and `r["label"]`,
+  columns that do not exist in the current `roster.csv`, so it raised `KeyError` on every run.
+  It now reproduces the published centroid, geometric median and 3.56 km/player exactly.
+- **Do not weight by `household_size`.** See the note in `summary.md` §2 — it double-counts
+  the six players who share an address with a teammate.
 - **`basemap.svg` and `osm_raw.json` are gitignored build artifacts.** If missing:
   `./fetch_osm.sh && python3 build_basemap.py && python3 build_page.py`
 - **Never edit `darts-map.html` directly** — it is generated. Edit `page_tpl.py`.
@@ -133,10 +140,13 @@ Then republish the artifact with the same file path to keep the URL.
 
 ## State at hand-off
 
-**7 candidates in play**, ranked 1–7 on the site, led by The Emerson and Branded
+**8 candidates in play**, ranked 1–8 on the site, led by The Emerson and Branded
 Saloon. Chilo's, Captain Dan's, Sharlene's and Doppelgänger were dropped on 18 Sept
 without a visit (see the decision log above), and **Union Hall was added at #4 on CJ's
-firsthand confirmation of its space** — the only candidate he has vouched for himself. CJ is visiting venues today or tomorrow. The two open questions
+firsthand confirmation of its space** — the only candidate he has vouched for himself.
+**Black Forest Brooklyn** joined at #7 on CJ's read that a beer hall may be big enough to
+run trivia and darts at once; its real blocker is the 10pm Tuesday close, not the trivia.
+Rustik Tavern was ruled out (closed Tuesdays, and a restaurant that would not want a board). CJ is visiting venues today or tomorrow. The two open questions
 are unchanged and can only be answered in person:
 
 1. **~11 ft of clear depth perpendicular to a wall** — the number that has
