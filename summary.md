@@ -88,16 +88,17 @@ several candidates.
 
 ---
 
-## 5. Current standing (6 in play)
+## 5. Current standing (7 in play)
 
 | # | Bar | Address | km/player | Space | Transit 8 | Tuesday |
 |---|---|---|---|---|---|---|
 | 1 | The Emerson | 561 Myrtle Ave | 3.60 | Partial — "huge inside" | 6/8 | Clear |
 | 2 | Branded Saloon | 603 Vanderbilt Ave | 4.18 | **Exceptional** | 2/8 | **Clear — verified** |
 | 3 | Bilt Bar | 583 Vanderbilt Ave | 4.13 | Adequate | 2/8 | Unverified |
-| 4 | The Crown Inn | 724 Franklin Ave | 4.46 | Unknown | 0/8 | Trivia — may coexist |
-| 5 | Fulton Grand | 1011 Fulton St | 3.91 | **Confirmed good** | **8/8** | Unverified |
-| 6 | The Layup | 47 5th Ave | 4.35 | Unknown | 6/8 | Unverified |
+| 4 | **Union Hall** | 702 Union St | 4.52 | **Confirmed — CJ firsthand** | 4/8 | 4pm–2am, bocce league is Mon |
+| 5 | The Crown Inn | 724 Franklin Ave | 4.46 | Unknown | 0/8 | Trivia — may coexist |
+| 6 | Fulton Grand | 1011 Fulton St | 3.91 | **Confirmed good** | **8/8** | Unverified |
+| 7 | The Layup | 47 5th Ave | 4.35 | Unknown | 6/8 | Unverified |
 
 ### Key facts per candidate
 - **The Emerson** — owner Gina, independent since 2010, cash only, no kitchen
@@ -107,13 +108,19 @@ several candidates.
 - **Branded Saloon** — queer owned and operated. Back performance room
   (capacity 120) **plus substantial upstairs**. Tuesday confirmed free from
   their public Google Calendar: 2 Tuesday events in all of 2026 vs 24 Sundays.
+- **Union Hall** — **the only candidate whose space CJ has confirmed himself.** 5,000 sq ft
+  with two indoor bocce courts, so floor depth is not the question. Open Tue 4pm–2am, the
+  widest window of any candidate; the Rogue Bocce league runs **Mondays**, not Tuesdays.
+  **Already hosts an outside league** — the strongest "this bar says yes" evidence in the
+  file. Weakest transit of the live set (A/C is 1.38 km) and the furthest at 4.52, though
+  still closer than the Park Slope league bars Monro Pub (5.02) and Farrell's (5.68).
 - **Fulton Grand** — back room formerly used for shuffleboard (a 22-ft table, so
   depth is not in question). Same ownership team as Washington Commons and 4th
   Ave Pub. CJ's caveat: vibe doesn't obviously say darts.
 
 ---
 
-## 6. Ruled out — and why (23 venues)
+## 6. Ruled out — and why (26 venues)
 
 **By CJ in person:** Hartley's (small, wrong fit) · Glorietta Baldy's (same) ·
 Washington Commons (low vibe + 0/8 transit) · Doris (vibe) ·
@@ -121,6 +128,8 @@ Fulton Hall (no visible play space — **note: its "corporate" label was wrong,
 Vortex Hospitality runs only 4 venues; ownership was NOT the reason**)
 
 **On space, without a visit (CJ's call, 18 Sept):**
+**Doppelgänger** (415 Myrtle Ave — no room for a board anywhere in the bar; this address was
+on the list as *Cardiff Giant*, which closed in March 2026) ·
 **Sharlene's** (no room for a board at all — a long narrow room with the bar down one
 side and tables down the other leaves only the walkway between, and a lane needs depth
 *perpendicular* to a wall; good transit could not fix the geometry) ·
@@ -129,6 +138,11 @@ else about it was strong) · **Captain Dan's Good Time Tavern** (no room for a l
 *and* trivia already holds Tuesday at 7:30 — two strikes on the two screens that
 matter, so not worth the trip; it was 8/8 on transit and third-closest of anything
 considered, which is what makes it the most expensive loss on the list)
+
+**On vibe or ownership (18 Sept):** **Sound + Fury Brewery** (141 Lawrence St — the largest
+room found in-boundary at 6,000 sq ft, but too far at 4.48 and not divey enough) ·
+**Threes Brewing** (333 Douglass St — a five-site chain, past the three-to-four venue local
+group the screen allows, plus the same vibe objection)
 
 **Tuesday conflict:** C'mon Everybody (music venue books Tuesdays) ·
 Tip Top Bar & Grill (closed Tuesdays entirely)
@@ -146,6 +160,19 @@ Hanson Dry · Brooklyn Public House · Dynaco (temporarily — recheck)
 **Excluded by the league** (20 bars already hold teams) — see `league-bars.csv`.
 Two sit in the target zone: **Moot Bar** (579 Myrtle Ave, a dedicated dart bar)
 and **Fulton Ale House** (1446 Fulton St).
+
+---
+
+### Two corrections found 18 Sept
+1. **Cardiff Giant (415 Myrtle Ave) had been sitting in the CSV as a live rank-7 candidate
+   marked OPEN — it closed in March 2026.** The address now trades as Doppelgänger, and is
+   ruled out on space.
+2. **Swell Dive (1013 Bedford Ave) was marked closed — the address is trading again as
+   Kubo**, a Filipino bar. At 3.65 km/player that beats Fulton Grand on distance, so it is
+   flagged `NEW LEAD - UNASSESSED` rather than left as closed. Karaoke at 10pm nightly is
+   the likely blocker.
+
+Both are lesson 1 below running in *both* directions: listings go stale on reopenings too.
 
 ---
 

@@ -100,6 +100,8 @@ her own row redacted. Rounded.
 | Rings re-centred on the **team centre**, not The Emerson | Neutral reference once The Emerson stopped being the default pick |
 | **Fulton Hall "corporate" label retracted** | Published on secondhand information; verification showed a 4-venue local group. Ownership was never the reason — no visible play space was |
 | Ruled-out bars **kept with reasons**, not deleted | Stops anyone re-suggesting them |
+| **Searched by venue *category*, not just geography** | The first 44 were almost all cocktail bars, dives and wine bars — the category that fails an 11 ft depth test. Widening to beer halls, taprooms, bocce/game bars and social clubs surfaced Union Hall and four others in one pass |
+| **Union Hall added at #4 despite the worst distance in the live set** | CJ has stood in it. Firsthand space beats a better number every time — it is the constraint that has eliminated more candidates than anything else |
 | **Chilo's, Captain Dan's and Sharlene's dropped without a visit** | CJ's call: Chilo's plainly lacks the interior room for even one board; Captain Dan's has no lane *and* trivia already holds Tuesday; Sharlene's shotgun room has no depth perpendicular to any wall. All three failed on evidence already in hand, so a trip would only have confirmed it |
 | Site numbering switched to **sequential 1–N** | CSV ranks all 30 live bars; the site shows a curated subset, so its numbers had gaps |
 
@@ -131,9 +133,10 @@ Then republish the artifact with the same file path to keep the URL.
 
 ## State at hand-off
 
-**6 candidates in play**, ranked 1–6 on the site, led by The Emerson and Branded
-Saloon. Chilo's, Captain Dan's and Sharlene's were dropped on 18 Sept without a visit
-(see the decision log above). CJ is visiting venues today or tomorrow. The two open questions
+**7 candidates in play**, ranked 1–7 on the site, led by The Emerson and Branded
+Saloon. Chilo's, Captain Dan's, Sharlene's and Doppelgänger were dropped on 18 Sept
+without a visit (see the decision log above), and **Union Hall was added at #4 on CJ's
+firsthand confirmation of its space** — the only candidate he has vouched for himself. CJ is visiting venues today or tomorrow. The two open questions
 are unchanged and can only be answered in person:
 
 1. **~11 ft of clear depth perpendicular to a wall** — the number that has
