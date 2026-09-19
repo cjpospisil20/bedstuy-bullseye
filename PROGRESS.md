@@ -114,6 +114,10 @@ her own row redacted. Rounded.
 - **`analysis.py` was broken and is now fixed.** It referenced `r["people"]` and `r["label"]`,
   columns that do not exist in the current `roster.csv`, so it raised `KeyError` on every run.
   It now reproduces the published centroid, geometric median and 3.56 km/player exactly.
+- **A listing's "Updated <month>" is not a trading status.** Kubo was recorded as open on the
+  strength of a Yelp title reading "Updated September 2026"; that describes the page, not the
+  business. Google showed it temporarily closed. Yelp and Toast both 403 automated fetches, so
+  current status often cannot be read programmatically — check a venue's own channels, or ask.
 - **Do not weight by `household_size`.** See the note in `summary.md` §2 — it double-counts
   the six players who share an address with a teammate.
 - **`basemap.svg` and `osm_raw.json` are gitignored build artifacts.** If missing:

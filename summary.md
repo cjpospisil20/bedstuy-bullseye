@@ -185,10 +185,17 @@ and **Fulton Ale House** (1446 Fulton St).
 1. **Cardiff Giant (415 Myrtle Ave) had been sitting in the CSV as a live rank-7 candidate
    marked OPEN — it closed in March 2026.** The address now trades as Doppelgänger, and is
    ruled out on space.
-2. **Swell Dive (1013 Bedford Ave) was marked closed — the address is trading again as
-   Kubo**, a Filipino bar. At 3.65 km/player that beats Fulton Grand on distance, so it is
-   flagged `NEW LEAD - UNASSESSED` rather than left as closed. Karaoke at 10pm nightly is
-   the likely blocker.
+2. **Swell Dive (1013 Bedford Ave) was marked closed — the address has since had two more
+   states.** Kubo, a Filipino bar, opened there 13 Feb 2026; as of Sept 2026 **Google shows
+   it temporarily closed** (CJ spotted this). Held as `RECHECK IF IT REOPENS`, the same
+   handling as Dynaco. At 3.65 km/player the address beats Fulton Grand on distance, so it
+   is worth a recheck rather than deletion.
+
+   ⚠️ **A bad inference to avoid repeating.** Kubo was briefly recorded here as "open as of
+   Sept 2026" on the strength of a Yelp page title reading *Updated September 2026*. That
+   phrase means the listing was updated, **not** that the business is trading — and Yelp and
+   Toast both block automated fetching, so neither could be read live. Lesson 1 below applies
+   to reopenings as much as closures, and a listing's freshness is not a venue's status.
 
 Both are lesson 1 below running in *both* directions: listings go stale on reopenings too.
 
