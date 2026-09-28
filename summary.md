@@ -106,10 +106,10 @@ pre-visit model, so the two columns deliberately disagree.
 
 | # | Bar | Address | km/player | Space | Transit 8 | Status after the crawl |
 |---|---|---|---|---|---|---|
-| 1 | **The Layup** | 47 5th Ave | 4.35 | **Two board spots, seen** | 6/8 | Best prospect; ownership unreachable |
-| 2 | **Bilt Bar** | 583 Vanderbilt Ave | 4.13 | **One board, seen** | 2/8 | Owner interested, contact in hand |
-| 3 | The Dram Shop | 339 9th St | 5.30 | Darts, pool & shuffleboard | 4/8 | Has hosted a team before; not visited |
-| 4 | **Branded Saloon** | 603 Vanderbilt Ave | 4.18 | **Basement, seen — best room** | 2/8 | Bar wants an activity; no reply yet |
+| 1 | **Branded Saloon** | 603 Vanderbilt Ave | 4.18 | **Basement, seen — best room** | 2/8 | Bar wants an activity; no reply yet |
+| 2 | **The Layup** | 47 5th Ave | 4.35 | **Two board spots, seen** | 6/8 | Best prospect; ownership unreachable |
+| 3 | **Bilt Bar** | 583 Vanderbilt Ave | 4.13 | **One board, seen** | 2/8 | Owner interested, contact in hand |
+| 4 | The Dram Shop | 339 9th St | 5.30 | Darts, pool & shuffleboard | 4/8 | Has hosted a team before; not visited |
 | 5 | McMahon's Public House | 39 5th Ave | 4.35 | **Large private upstairs, seen** | 6/8 | Space fine; is it the right *kind* of venue? |
 | 6 | Halyards | 406 3rd Ave | 4.91 | **Board seen — badly sited** | 4/8 | Fallback only |
 | 7 | Union Hall | 702 Union St | 4.52 | Confirmed, CJ firsthand | 4/8 | Not visited on the crawl; unresolved |

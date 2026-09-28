@@ -156,8 +156,9 @@ Then republish the artifact with the same file path to keep the URL.
 ## State at hand-off
 
 **Seven candidates in play**, reordered on 28 Sept by *likelihood of actually
-hosting us* rather than by the distance/space model. Led by **The Layup** and
-**Bilt Bar**, the two with a person on the inside who wants this.
+hosting us* rather than by the distance/space model. Led by **Branded Saloon** on the
+strength of its room, then **The Layup** and **Bilt Bar**, the two with a person
+on the inside who wants this.
 
 The 19 September crawl was the most informative day of the project and the most
 destructive to the prior ranking:
