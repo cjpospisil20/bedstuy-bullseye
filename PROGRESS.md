@@ -116,7 +116,7 @@ her own row redacted. Rounded.
 | **McMahon's "corporate" impression recorded but not acted on** | CJ's read was that it felt corporate, which would fail the not-a-chain screen. Both owners answer personal mobiles and it is a single location that took over O'Connor's, so the objection was rewritten as atmosphere rather than ownership |
 | **Branded Saloon's candidate room moved upstairs → basement** | The basement just lost its pool table and the bar is actively seeking a replacement activity. Tuesday comedy runs upstairs, so it does not collide. Also logged: it is a queer bar and suits a queer or queer-friendly team |
 | **A `.gitignore` finally added** | The repo is public and had none, so `PROGRESS.md`'s "never commit `roster.csv`" warning rested entirely on memory. Also covers `.context/`, which now holds owners' personal phone numbers |
-| **Personal contacts kept out of the public CSV** | Owners' mobiles live only in `COMMISSIONER-VENUE-BRIEF.md`, which is deliberately kept **outside this repo** (project root on CJ's machine; the Conductor workspace holds it under `.context/`). First names plus roles stay in the CSV, following the existing "owner Gina" pattern |
+| **Personal contacts kept out of everything public** | Owners' mobiles live only in `COMMISSIONER-VENUE-BRIEF.md`, which is committed to the **private** master repo and must never reach the public one. First names plus roles stay in the CSV, following the existing "owner Gina" pattern |
 
 ---
 
@@ -170,9 +170,13 @@ destructive to the prior ranking:
 
 **A separate brief for the League Commissioner**, `COMMISSIONER-VENUE-BRIEF.md`
 — per-bar suitability, contacts, demographics and dartboard status, ordered most
-to least likely. **It is deliberately not tracked in this repo**, because it
-carries owners' personal mobile numbers: it sits at the private project root
-(`~/Desktop/New Darts Bar/`) and under `.context/` in the Conductor workspace.
+to least likely. It carries **bar owners' personal mobile numbers**, so:
+
+- It **is** committed to the private master repo (`~/Desktop/New Darts Bar/`).
+- It must **never** appear in the public repo — this file you are reading is
+  copied into `public/` by hand, and that hand copy is the one step in the
+  publishing pipeline with no automated leak check behind it. `build_public.py`
+  guards the map page; nothing guards a stray `cp`.
 
 **Open items:**
 
