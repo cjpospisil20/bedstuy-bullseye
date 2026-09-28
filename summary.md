@@ -1,6 +1,6 @@
 # Brooklyn Darts — Home Bar Search: Full Context
 
-**Last updated:** 2026-09-18 · **For:** anyone picking this up cold
+**Last updated:** 2026-09-28 · **For:** anyone picking this up cold
 
 ---
 
@@ -97,64 +97,90 @@ several candidates.
 
 ---
 
-## 5. Current standing (10 in play)
+## 5. Current standing (7 in play)
 
-| # | Bar | Address | km/player | Space | Transit 8 | Tuesday |
+Ordered by **how likely each bar is to actually host us** after the 19 September
+crawl — firsthand evidence, not the distance/space model that ordered this list
+before. The CSV `rank` follows this order; `total_score` is left untouched as the
+pre-visit model, so the two columns deliberately disagree.
+
+| # | Bar | Address | km/player | Space | Transit 8 | Status after the crawl |
 |---|---|---|---|---|---|---|
-| 1 | The Emerson | 561 Myrtle Ave | 3.60 | Partial — "huge inside" | 6/8 | Clear |
-| 2 | Branded Saloon | 603 Vanderbilt Ave | 4.18 | **Exceptional** | 2/8 | **Clear — verified** |
-| 3 | Bilt Bar | 583 Vanderbilt Ave | 4.13 | Adequate | 2/8 | Unverified |
-| 4 | **Union Hall** | 702 Union St | 4.52 | **Confirmed — CJ firsthand** | 4/8 | 4pm–2am, bocce league is Mon |
-| 5 | **McMahon's Public House** | 39 5th Ave | 4.35 | Spacious + upstairs lounge, unverified | 6/8 | 11am–2am |
-| 6 | Fulton Grand | 1011 Fulton St | 3.91 | **Confirmed good** | **8/8** | Unverified |
-| 7 | **Halyards** | 406 3rd Ave | 4.91 | **Already has dart boards** | 4/8 | 4pm–2am |
-| 8 | **Black Forest** | 733 Fulton St | 3.97 | Big room, unverified | **8/8 — best** | Trivia + closes 10pm |
-| 9 | The Layup | 47 5th Ave | 4.35 | Unknown | 6/8 | Unverified |
-| 10 | **The Dram Shop** | 339 9th St | 5.30 | Darts, pool & shuffleboard | 4/8 | Unverified |
+| 1 | **The Layup** | 47 5th Ave | 4.35 | **Two board spots, seen** | 6/8 | Best prospect; ownership unreachable |
+| 2 | **Bilt Bar** | 583 Vanderbilt Ave | 4.13 | **One board, seen** | 2/8 | Owner interested, contact in hand |
+| 3 | The Dram Shop | 339 9th St | 5.30 | Darts, pool & shuffleboard | 4/8 | Has hosted a team before; not visited |
+| 4 | **Branded Saloon** | 603 Vanderbilt Ave | 4.18 | **Basement, seen — best room** | 2/8 | Bar wants an activity; no reply yet |
+| 5 | McMahon's Public House | 39 5th Ave | 4.35 | **Large private upstairs, seen** | 6/8 | Space fine; is it the right *kind* of venue? |
+| 6 | Halyards | 406 3rd Ave | 4.91 | **Board seen — badly sited** | 4/8 | Fallback only |
+| 7 | Union Hall | 702 Union St | 4.52 | Confirmed, CJ firsthand | 4/8 | Not visited on the crawl; unresolved |
 
 ### Key facts per candidate
-- **The Emerson** — owner Gina, independent since 2010, cash only, no kitchen
-  (BYO/delivery). **Already runs APA pool league nights** — a bar that already
-  says yes to leagues. One block from Moot Bar (a league bar), which CJ counts
-  as a plus.
-- **Branded Saloon** — queer owned and operated. Back performance room
-  (capacity 120) **plus substantial upstairs**. Tuesday confirmed free from
-  their public Google Calendar: 2 Tuesday events in all of 2026 vs 24 Sundays.
-- **Union Hall** — **the only candidate whose space CJ has confirmed himself.** 5,000 sq ft
-  with two indoor bocce courts, so floor depth is not the question. Open Tue 4pm–2am, the
-  widest window of any candidate; the Rogue Bocce league runs **Mondays**, not Tuesdays.
-  **Already hosts an outside league** — the strongest "this bar says yes" evidence in the
-  file. Weakest transit of the live set (A/C is 1.38 km) and the furthest at 4.52, though
-  still closer than the Park Slope league bars Monro Pub (5.02) and Farrell's (5.68).
-- **Black Forest** — a German beer hall, and **the best transit of anything assessed**: the
-  C is 0.12 km from the door and the G 0.28 km, so the core venue test is satisfied
-  outright. Skylit main room with seven large communal tables plus a backyard beer garden;
-  CJ's read is it may be big enough to run trivia and darts at once. **The real blocker is
-  not trivia — it closes at 10pm Mon–Thu**, which does not fit a 7pm start needing 3–4.5
-  hours. One phone call settles it: would they stay open later for a booked league?
-- **Halyards** — **the only non-league bar found that already has dart boards.** Corroborated
-  on their own site (a customer quote about the "pool/dart *area*") and in independent
-  coverage ("dart boards and a pool table"). A bar with a board has already answered the two
-  questions that killed most candidates: would they want one on the wall, and is there
-  anywhere to throw. Four blocks from the old home bar. **Steel tip unconfirmed** — the
-  league is steel tip and these may be soft tip. Distance is the problem at 4.91.
-- **McMahon's Public House** — an Irish public house and sports bar, the **closest vibe match
-  on the list** and the same kind of football pub the old home bar was. Open 11am–2am, full
-  kitchen, single location, and 4.35 beats Union Hall, the Crown Inn and The Layup. The
-  candidate space is the **upstairs lounge** they let for events. No board, no dimensions yet.
-- **The Dram Shop** — **a last-ditch option, CJ's words.** Darts, pool *and* shuffleboard, and
-  the Brooklyn APA Pool League runs out of the address, so it already hosts an outside league
-  — the strongest game-space evidence anywhere. But 5.30 km/player is further than even the
-  old home bar, which is why it sits last.
-- **Fulton Grand** — back room formerly used for shuffleboard (a 22-ft table, so
-  depth is not in question). Same ownership team as Washington Commons and 4th
-  Ave Pub. CJ's caveat: vibe doesn't obviously say darts.
+
+- **The Layup** — went from #9 to #1 on one conversation. Every listing called it
+  a nine-screen sports bar with its walls spoken for; in person there are **two
+  separate spots** a board would fit. **Dominick**, a bartender there, plays for
+  **773 Lounge in Division 4** and has been pushing his own management for a
+  board for a while without getting a hearing. We left a card but have no number;
+  the route to him is **Matt, the 773 captain**, who is his team captain. The
+  demographic fits darts as squarely as anywhere assessed. Ownership changed
+  hands this year, which may explain the silence.
+- **Bilt Bar** — the board would replace two pinball tables in the back. **One
+  board only**, and the area is tight for a full team. Co-owner **Laney is a
+  darts player herself** and is interested, though clear she could not run it.
+  Replied on Instagram; direct number held in the commissioner's brief, not here.
+- **The Dram Shop** — **it has hosted a darts team before**, per Mac Diller, met
+  at Bilt Bar, who played on it. Darts, pool *and* shuffleboard, and the Brooklyn
+  APA Pool League runs from the address. Strongest possible signal that the room
+  works — but **nobody has been and there is no contact**, and 5.30 km is further
+  than the old home bar.
+- **Branded Saloon** — the candidate room is the **basement**, not the upstairs
+  assumed pre-visit. It recently lost its pool table and **the bar is openly
+  looking for an activity to replace it** — the only venue actively seeking what
+  we are offering. The visit turned up a Tuesday comedy night the calendar did
+  not show; it runs *upstairs*, so it does not collide. Emailed the owner, no
+  reply. **Queer owned and operated** — suits a queer or queer-friendly team, and
+  worth matching deliberately rather than by default.
+- **McMahon's Public House** — a large **private upstairs event room**, more clear
+  wall than anything else assessed. Two catches, neither about size: the room
+  *feels* like a corporate event space even though the ownership is not (single
+  location, took over O'Connor's, both owners reachable on personal mobiles), and
+  a board behind a closed upstairs door gets no passing trade. A question about
+  what the league wants a home bar to be.
+- **Halyards** — the board is real, and that is the problem. It hangs **over the
+  pool table**, which is in demand; the cellar door the barbacks use is right
+  beside the throw line; sightlines fit about eight people. Workable if desperate,
+  a weekly source of friction otherwise.
+- **Union Hall** — never visited on the crawl. The room is not in doubt — 5,000
+  sq ft, two indoor bocce courts, already hosts an outside league on Mondays —
+  but they run a great deal of programming and the read is that darts would be
+  one thing too many. **Unresolved rather than ruled out.**
 
 ---
 
-## 6. Ruled out — and why (32 venues)
+## 6. Ruled out — and why (36 venues)
 
-**By CJ in person:** Hartley's (small, wrong fit) · Glorietta Baldy's (same) ·
+**Ruled out on the 19 Sept crawl — all seen in person:**
+**The Emerson** (561 Myrtle Ave — **it is a pool bar**. Ten people sitting with cues in
+hand waiting for the table at 6pm on a Tuesday, and the only wall a board could use is
+the one the pool table occupies. It led this list on distance, transit and every written
+description of its size, and it is the most painful loss of the search) ·
+**Fulton Grand** (1011 Fulton St — cramped, nowhere to hang a board, and not the vibe for
+a four-hour standing night. **Its shuffleboard back room was secondhand from the owner of
+Moot Bar and did not exist as described** — for weeks this was the one room anyone was
+said to have stood in) ·
+**Black Forest** (733 Fulton St — floor area but no usable wall, and a darts night would
+sit oddly in a communal-table beer hall. No one in charge reached. Costly: 8/8 on transit,
+the best of anything assessed)
+
+**Referred to the league rather than dropped:**
+**Greenwood Park** (555 7th Ave, Greenwood Heights — recommended by Laney at Bilt Bar, who
+knows the owner. 13,000 sq ft, a kitchen, three bocce courts and an events business. **Not
+for us**: an estimated 6.18 km/player, the furthest assessed, and the space is principally
+open-air. But the distance objection is *ours*, not the venue's — for a team based around
+South Slope, Sunset Park or Bay Ridge, where Farrell's and Shenanigans already play, it
+looks well placed. Handed to the commissioner as a candidate for another team.)
+
+**By CJ in person (earlier):** Hartley's (small, wrong fit) · Glorietta Baldy's (same) ·
 Washington Commons (low vibe + 0/8 transit) · Doris (vibe) ·
 Fulton Hall (no visible play space — **note: its "corporate" label was wrong,
 Vortex Hospitality runs only 4 venues; ownership was NOT the reason**)
@@ -273,6 +299,19 @@ lists only because it is a "bar with games".
    Dave Zirin. The original Instagram post still circulates and reads as current.
 5. **Don't assert something you haven't verified** — the Fulton Hall "corporate"
    label was taken from conversation and published without checking. It was wrong.
+6. **Secondhand rooms are not evidence.** Fulton Grand's shuffleboard back room
+   was described by another bar's owner and carried here for weeks as the one
+   space someone had actually stood in. It did not survive a visit. A person can
+   be as stale a source as a listing.
+7. **Walking in beats every source.** The 19 Sept crawl overturned three of the
+   top eight and promoted The Layup from #9 to #1 — a bar every listing described
+   as having no room for darts. Nothing on paper predicted either outcome.
+8. **A bar's existing game furniture cuts both ways.** Halyards' board and The
+   Emerson's pool table both proved the room *can* host a game and that the space
+   is already spoken for. Ask who is using it, not just whether it exists.
+9. **The best lead in the search was a person, not a venue.** A Division 4 player
+   working behind the bar at The Layup is worth more than any amount of floor
+   area, because he wants it to happen and the league can reach him.
 
 ---
 
@@ -291,13 +330,17 @@ lists only because it is a "bar with games".
 | `location-analysis.md`, `RANKED-BAR-LIST.md`, `excluded-bars.md` | Earlier written analyses |
 | `BRD-new-home-bar.md` | Requirements doc from the initial scoping |
 | `public/` | The redacted public repo — its own git remote |
+| `COMMISSIONER-VENUE-BRIEF.md` | **Per-bar suitability brief for the League Commissioner.** Contacts, demographics, dartboard status, ordered most to least likely. **Never copy into `public/`** — it carries owners' personal mobile numbers |
 
 ### Rebuild workflow
 ```bash
 python3 page_tpl.py      # regenerate darts-map.html
 python3 build_public.py  # regenerate public/index.html (redacted)
-cd public && git add -A && git commit -m "..." && git push
+cd public && git add -A && git commit -m "..."
 ```
+**Changes to the public repo now go via a pull request**, not a direct push to
+`main`. GitHub Pages publishes from `main` at root, so merging the PR is what
+takes a change live — it rebuilds in 30–60 seconds.
 Then republish the artifact with the `Artifact` tool, same file path.
 
 If `basemap.svg` is missing: `./fetch_osm.sh && python3 build_basemap.py && python3 build_page.py`
@@ -320,15 +363,23 @@ the redaction and prints a leak check — **do not push if it reports anything.*
 
 ## 10. What's next
 
-CJ is visiting venues. The two questions that decide it:
+The crawl answered the space question at eight venues. What is left is almost
+entirely **reaching people**, not assessing rooms.
 
-1. **~11 ft of clear depth perpendicular to a wall**, out of the path to the
-   bathroom and the bar. This is the number that has killed candidates.
-2. **Is it free on Tuesdays?** — and at the Crown Inn, is the back separable while
-   trivia runs?
+1. **Reach The Layup's ownership.** Go through **Matt at 773 Lounge** to reach
+   **Dominick**, then approach the owners with the league behind it, framed on
+   incremental weeknight revenue. One step, entirely inside the league, and the
+   single highest-value action available.
+2. **Call Branded Saloon.** Email has gone unanswered. Best room found, and they
+   want an activity for the basement — this should not die of a missed inbox.
+3. **Walk into Dram Shop.** It has hosted a team before, but nobody has been and
+   there is no contact. One visit settles it; only the distance argues against.
+4. **Decide about McMahon's.** Space is not the question. Does the league want a
+   private upstairs function room as a home bar? That is a taste call, not ours.
+5. **Union Hall** was never visited. Unresolved, not ruled out.
 
-Also worth asking: at Branded Saloon, whether the **upstairs** is available on a
-*recurring* Tuesday; at Fulton Grand, whether the **back room is still free**
-and whether they'd actually want a league night.
+**Still-missing contacts** for the brief: Dram Shop, Halyards and Union Hall, plus
+Instagram handles for Fulton Grand and Black Forest.
 
-Record answers in `MASTER-BAR-LIST.csv` and re-run the scoring.
+Record answers in `MASTER-BAR-LIST.csv` (`called_on`, `spoke_to`,
+`two_boards_confirmed`, `tuesday_confirmed`, `outcome`) and re-run the scoring.
