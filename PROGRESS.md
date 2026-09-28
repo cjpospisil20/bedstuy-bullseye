@@ -110,6 +110,13 @@ her own row redacted. Rounded.
 | **Household weighting considered and rejected** | `household_size` looks like a weight but is not: roster rows are one-per-player, so multiplying by it double-counts the three two-player addresses. The published per-player figures were already correct. `analysis.py` now asserts the equivalence |
 | **Chilo's, Captain Dan's and Sharlene's dropped without a visit** | CJ's call: Chilo's plainly lacks the interior room for even one board; Captain Dan's has no lane *and* trivia already holds Tuesday; Sharlene's shotgun room has no depth perpendicular to any wall. All three failed on evidence already in hand, so a trip would only have confirmed it |
 | Site numbering switched to **sequential 1–N** | CSV ranks all 30 live bars; the site shows a curated subset, so its numbers had gaps |
+| **Site order switched from the model score to post-visit likelihood** | The 19 Sept crawl made the distance/space score the weaker evidence. The site and the CSV `rank` now order the live set by how likely each bar is to actually host us; `total_score` is left untouched as the pre-visit model, so the two columns deliberately disagree |
+| **Firsthand observation overturned three highly-ranked bars** | The Emerson (#1 for weeks) is a pool bar with a Tuesday queue for the table; Fulton Grand's shuffleboard back room was secondhand and did not exist as described; Black Forest has floor area but no wall. All three scored well on paper |
+| **The Layup promoted from #9 to #1** | Every listing said nine screens and no darts. In person: two workable board positions and a Division 4 player from 773 Lounge behind the bar, already lobbying his own management. The strongest insider of the entire search |
+| **McMahon's "corporate" impression recorded but not acted on** | CJ's read was that it felt corporate, which would fail the not-a-chain screen. Both owners answer personal mobiles and it is a single location that took over O'Connor's, so the objection was rewritten as atmosphere rather than ownership |
+| **Branded Saloon's candidate room moved upstairs → basement** | The basement just lost its pool table and the bar is actively seeking a replacement activity. Tuesday comedy runs upstairs, so it does not collide. Also logged: it is a queer bar and suits a queer or queer-friendly team |
+| **A `.gitignore` finally added** | The repo is public and had none, so `PROGRESS.md`'s "never commit `roster.csv`" warning rested entirely on memory. Also covers `.context/`, which now holds owners' personal phone numbers |
+| **Personal contacts kept out of everything public** | Owners' mobiles live only in `COMMISSIONER-VENUE-BRIEF.md`, which is committed to the **private** master repo and must never reach the public one. First names plus roles stay in the CSV, following the existing "owner Gina" pattern |
 
 ---
 
@@ -148,19 +155,41 @@ Then republish the artifact with the same file path to keep the URL.
 
 ## State at hand-off
 
-**10 candidates in play**, ranked 1–10 on the site, led by The Emerson and Branded
-Saloon. Chilo's, Captain Dan's, Sharlene's and Doppelgänger were dropped on 18 Sept
-without a visit (see the decision log above), and **Union Hall was added at #4 on CJ's
-firsthand confirmation of its space** — the only candidate he has vouched for himself.
-**Black Forest Brooklyn** joined at #7 on CJ's read that a beer hall may be big enough to
-run trivia and darts at once; its real blocker is the 10pm Tuesday close, not the trivia.
-Rustik Tavern was ruled out (closed Tuesdays, and a restaurant that would not want a board). CJ is visiting venues today or tomorrow. The two open questions
-are unchanged and can only be answered in person:
+**Seven candidates in play**, reordered on 28 Sept by *likelihood of actually
+hosting us* rather than by the distance/space model. Led by **The Layup** and
+**Bilt Bar**, the two with a person on the inside who wants this.
 
-1. **~11 ft of clear depth perpendicular to a wall** — the number that has
-   eliminated more candidates than anything else
-2. **Is Tuesday genuinely free?** — and at the Crown Inn, is the back separable
-   while trivia runs?
+The 19 September crawl was the most informative day of the project and the most
+destructive to the prior ranking:
 
-Visit results go in `MASTER-BAR-LIST.csv` under `called_on`, `spoke_to`,
-`two_boards_confirmed`, `tuesday_confirmed`, `outcome`. Re-run the scoring after.
+- **The Emerson**, #1 for weeks, is a pool bar — ten people waiting for the table
+  with cues in hand at 6pm on a Tuesday, and the only usable wall is the one the
+  table occupies.
+- **Fulton Grand** and **Black Forest** are out on space and vibe.
+- **The Layup** went from #9 to #1 on a single conversation.
+
+**A separate brief for the League Commissioner**, `COMMISSIONER-VENUE-BRIEF.md`
+— per-bar suitability, contacts, demographics and dartboard status, ordered most
+to least likely. It carries **bar owners' personal mobile numbers**, so:
+
+- It **is** committed to the private master repo (`~/Desktop/New Darts Bar/`).
+- It must **never** appear in the public repo — this file you are reading is
+  copied into `public/` by hand, and that hand copy is the one step in the
+  publishing pipeline with no automated leak check behind it. `build_public.py`
+  guards the map page; nothing guards a stray `cp`.
+
+**Open items:**
+
+1. **Reach The Layup's ownership via Dominick.** Dominick tends bar there and
+   plays for 773 Lounge in Division 4; he cannot get a hearing on his own. We
+   have no number for him — we left a card — but **Matt, the 773 captain, is his
+   team captain and can introduce us.** One step, entirely inside the league.
+2. **Call Branded Saloon.** Email to brandedsaloon@gmail.com has gone unanswered;
+   the basement is the best room found and they want an activity for it.
+3. **Walk into Dram Shop.** It has hosted a league team before, which is the
+   strongest signal available, but nobody has been and there is no contact.
+4. **Ask the Commissioner about McMahon's** — abundant space, no obstacles, but
+   it would mean a private upstairs function room rather than a bar floor.
+5. **Union Hall** was never visited. Unresolved, not ruled out.
+6. **Contacts still missing** from the brief: numbers for Dram Shop, Halyards and
+   Union Hall, plus the Instagram handles for Fulton Grand and Black Forest.
