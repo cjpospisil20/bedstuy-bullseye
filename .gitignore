@@ -1,0 +1,15 @@
+# This repo is public. Nothing below should ever reach GitHub.
+
+# Exact player home addresses. build_public.py's leak check is the other guard.
+roster.csv
+
+# Generated build artifacts - rebuild with:
+#   ./fetch_osm.sh && python3 build_basemap.py && python3 build_page.py
+basemap.svg
+osm_raw.json
+
+# Conductor workspace scratch: screenshots, notes, and the commissioner's
+# brief, which carries owners' personal phone numbers.
+.context/
+
+.DS_Store
